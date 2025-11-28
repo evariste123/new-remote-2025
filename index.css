@@ -1,5 +1,4 @@
 body{
-    margin: 0;
     background-image: url('/image/download\ \(1\).jpeg');
     background-size: cover;
 }
@@ -22,11 +21,11 @@ body{
 }
 @keyframes eva{
     from{
-        background: linear-gradient(violet,purple,yellow,green,indigo,blue,red);
+        background: linear-gradient(rgb(128, 58, 128),rgb(129, 65, 129),rgb(138, 138, 60),rgb(63, 136, 63),rgb(111, 70, 139),rgb(62, 62, 143),rgb(134, 54, 54));
         backdrop-filter: 🌀;
     }
     to{
-        background: linear-gradient(purple,violet,indigo,yellow,red,green,blue);
+        background: linear-gradient(rgb(133, 45, 133),rgb(134, 64, 134),rgb(95, 49, 128),rgb(131, 131, 49),rgb(143, 61, 61),rgb(48, 138, 48),rgb(50, 50, 129));
     }
 }
 .remote0 button{
@@ -168,7 +167,7 @@ transition: 0.3s;
     text-transform: uppercase;
     font-weight:bold;
     border-radius: 0 0 5px 5px;
-    background:linear-gradient(to right,red,blue,purple,green,orange,yellow,indigo,violet);
+    background:linear-gradient(to right,rgb(138, 27, 27),rgb(41, 41, 141),rgb(141, 49, 141),rgb(46, 133, 46),rgb(138, 105, 46),rgb(136, 136, 48),rgb(94, 46, 128),rgb(134, 59, 134));
 }
 .remo{
     position: relative;
