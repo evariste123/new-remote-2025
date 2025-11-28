@@ -177,7 +177,6 @@ transition: 0.3s;
     margin-left: 100px;
     text-overflow:ellipsis;
     top: 30px;
-    color: white;
     text-transform: uppercase;
     text-decoration: underline;
 }
