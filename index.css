@@ -21,11 +21,11 @@ body{
 }
 @keyframes eva{
     from{
-        background: linear-gradient(rgb(128, 58, 128),rgb(129, 65, 129),rgb(138, 138, 60),rgb(63, 136, 63),rgb(111, 70, 139),rgb(62, 62, 143),rgb(134, 54, 54));
+        background: linear-gradient(rgb(145, 90, 145),rgb(129, 65, 129),rgb(138, 138, 60),rgb(63, 136, 63),rgb(111, 70, 139),rgb(62, 62, 143),rgb(134, 54, 54));
         backdrop-filter: 🌀;
     }
     to{
-        background: linear-gradient(rgb(133, 45, 133),rgb(134, 64, 134),rgb(95, 49, 128),rgb(131, 131, 49),rgb(143, 61, 61),rgb(48, 138, 48),rgb(50, 50, 129));
+        background: linear-gradient(rgb(139, 85, 139),rgb(134, 64, 134),rgb(95, 49, 128),rgb(131, 131, 49),rgb(143, 61, 61),rgb(48, 138, 48),rgb(50, 50, 129));
     }
 }
 .remote0 button{
